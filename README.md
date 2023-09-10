@@ -5,6 +5,6 @@ The folder contains three parts in total, with 'climate_stater.ipynb' and 'app.p
 
 To run the code smoothly, please make sure to install the Flask module in advance using "pip install Flask." If you encounter installation issues, you can create a Python 3 environment using "conda create --name <envname>" and then proceed with the installation.
 
-##When running 'app.py,' you will see a local development server URL with IP address and a port number in the output, such as "http://<IP address>:<port number>", so the URL to access the application should be: "<the URL from the output>/subpath."##
+**When running 'app.py,' you will see a local development server URL with IP address and a port number in the output, such as "http://<IP address>:<port number>", so the URL to access the application should be: "<the URL from the output>/subpath."**
 
 To quit the server after running the 'app.py', please press ctrl+c.
